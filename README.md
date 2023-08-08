@@ -1,5 +1,5 @@
 # MyML
-This repository contains my experiments with Deep Learning.    
+This repository contains my experiments with Machine Learning.    
 
 | Demo_Name.ipynb | Description | Model Used |    
 | --------------- | ----------- | ---------- |    
